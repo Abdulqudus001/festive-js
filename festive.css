@@ -1,0 +1,7 @@
+.festive-nav-img::after {
+  content: '';
+  background: url('https://img.icons8.com/doodle/48/000000/christmas-stocking--v1.png') no-repeat;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
